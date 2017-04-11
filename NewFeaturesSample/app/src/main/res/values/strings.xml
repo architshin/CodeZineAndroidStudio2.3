@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+CodeZine
+Android Studioの新バージョン2.3をCheck It Out!
+Android Studio2.3新機能サンプル
+
+@author Shinzo SAITO
+
+res/values/string.xmlファイル
+-->
+<resources>
+	<string name="app_name">AndroidStudio2.3新機能</string>
+	<string name="title">夏だ!海だ!</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+CodeZine
+Android Studioの新バージョン2.3をCheck It Out!
+Android Studio2.3新機能サンプル
+
+画面定義ファイル。
+
+@author Shinzo SAITO
+
+ファイル名=activity_new_features.xml
+-->
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:textSize="24sp"
+		android:gravity="center_horizontal"
+		android:text="@string/title"/>
+
+	<ImageView
+		android:layout_width="150dp"
+		android:layout_height="150dp"
+		android:src="@drawable/ic_sentiment_satisfied_black_24dp"/>
+
+	<ImageView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:src="@drawable/blue_ocean"/>
+</LinearLayout>
